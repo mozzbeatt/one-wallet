@@ -11,13 +11,7 @@ const links = [
     text: "One wallet. Zero worries.",
     url: "https://www.gatsbyjs.com/docs/tutorial",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
-  },
-  {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
-    description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      "The ultimate fiat-friendly, non-custodial wallet that lets you buy digital assets at fixed conversion rates.",
   },
 ]
 
