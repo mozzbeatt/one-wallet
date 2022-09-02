@@ -65,7 +65,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome</b>
+        <b>Welcome</b>
       </h1>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
