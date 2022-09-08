@@ -9,7 +9,7 @@ import * as styles from "../components/index.module.css"
 const links = [
   {
     text: "One wallet. Zero worries.",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
+    url: "https://go.onelink.me/0OCz/oz3fgouv",
     description:
       "The ultimate fiat-friendly, non-custodial wallet that lets you buy digital assets at fixed conversion rates.",
   },
