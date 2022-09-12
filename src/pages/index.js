@@ -56,7 +56,7 @@ const IndexPage = () => (
         <li key={link.url} className={styles.listItem}>
           <a
             className={styles.listItemLink}
-            href={`${link.url}${utmParameters}`}
+            href={`${link.url}`}
           >
             {link.text} ↗
           </a>
