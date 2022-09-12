@@ -33,7 +33,6 @@ const moreLinks = [
   { text: "Showcase", url: "https://gatsbyjs.com/showcase/" },
 ]
 
-const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
 
 const IndexPage = () => (
   <Layout>
@@ -67,7 +66,7 @@ const IndexPage = () => (
     </ul>
     {moreLinks.map((link, i) => (
       <React.Fragment key={link.url}>
-        <a href={`${link.url}${utmParameters}`}>{link.text}</a>
+        <a href={`${link.url}`}>{link.text}</a>
         {i !== moreLinks.length - 1 && <> · </>}
       </React.Fragment>
     ))}
